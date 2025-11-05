@@ -733,7 +733,7 @@
       </packagedElement>
       <xmi:Extension extender="umbrello">
         <diagrams resolution="96">
-          <diagram xmi.id="uNO4qve76ZS6V" name="diagrama entidad-relación" type="9" documentation="" backgroundcolor="#ffffff" fillcolor="#ffffc0" font="Ubuntu Sans,11,-1,5,50,0,0,0,0,0" griddotcolor="#d3d3d3" linecolor="#990000" linewidth="0" textcolor="#000000" usefillcolor="1" showattribassocs="1" showatts="1" showattsig="1" showops="1" showopsig="1" showpackage="1" showpubliconly="0" showscope="1" showstereotype="2" localid="-1" showgrid="0" snapgrid="0" snapcsgrid="0" snapx="25" snapy="25" zoom="100" canvasheight="643" canvaswidth="1646" isopen="1">
+          <diagram xmi.id="uNO4qve76ZS6V" name="diagrama entidad-relación" type="9" documentation="" backgroundcolor="#ffffff" fillcolor="#ffffc0" font="Ubuntu Sans,11,-1,5,50,0,0,0,0,0" griddotcolor="#d3d3d3" linecolor="#990000" linewidth="0" textcolor="#000000" usefillcolor="1" showattribassocs="1" showatts="1" showattsig="1" showops="1" showopsig="1" showpackage="1" showpubliconly="0" showscope="1" showstereotype="2" localid="-1" showgrid="0" snapgrid="0" snapcsgrid="0" snapx="25" snapy="25" zoom="100" canvasheight="643" canvaswidth="1651" isopen="1">
             <widgets>
               <entitywidget xmi.id="uGgdymL1P6wdS" localid="uWKKEBdnpzZRO" textcolor="#000000" linecolor="#990000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu Sans,11,-1,5,50,0,0,0,0,0,Regular" autoresize="1" x="248" y="404" width="78" height="113" isinstance="0" showstereotype="2" showattsigs="0"/>
               <notewidget xmi.id="uKIbexAScarVI" localid="uMPak6lyVPRqf" textcolor="#000000" linecolor="#990000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu Sans,11,-1,5,50,0,0,0,0,0" autoresize="0" x="633" y="320" width="213" height="55" isinstance="0" showstereotype="2" text="TICKET es una entidad debil de USUARIO y ENTRADA" noteType="0"/>
@@ -812,9 +812,11 @@
     </packagedElement>
   </uml:Model>
   <xmi:Extension extender="umbrello">
-    <docsettings viewid="uNO4qve76ZS6V" documentation="" uniqueid="uhuXzvAK2kXxH"/>
+    <docsettings viewid="uMVsjZgPc91jn" documentation="" uniqueid="uq5qV017CPDFT"/>
     <listview>
       <listitem id="Views" type="800" open="1">
+        <listitem id="Component_View" type="821" open="1"/>
+        <listitem id="Deployment_View" type="827" open="1"/>
         <listitem id="Entity_Relationship_Model" type="836" open="1">
           <listitem id="uNO4qve76ZS6V" type="834" label="diagrama entidad-relación" open="0"/>
           <listitem id="u3wDV4L14EInZ" type="832" open="0">
@@ -866,28 +868,6 @@
             <listitem id="uSpKMHg7AcGMe" type="833" open="0"/>
           </listitem>
         </listitem>
-        <listitem id="Use_Case_View" type="802" open="0">
-          <listitem id="uCN7xCdkkWa8w" type="812" open="1"/>
-          <listitem id="uEW9U9K5NUkYt" type="805" label="casos de uso" open="0"/>
-          <listitem id="u7e7j7Kuau6sh" type="812" open="1"/>
-          <listitem id="unXNG9VxEe9XQ" type="812" open="1"/>
-          <listitem id="uoI0GOEspd2Ls" type="811" open="1"/>
-          <listitem id="uDn09CYiBbwSu" type="811" open="1"/>
-          <listitem id="ucI84vucegZ6j" type="812" open="1"/>
-          <listitem id="uTDHnRVuwtCRc" type="812" open="1"/>
-          <listitem id="u59L9ZJOajFn8" type="812" open="1"/>
-          <listitem id="ubhQmxvXeE6Fo" type="812" open="1"/>
-          <listitem id="uoiPif8mFIZkV" type="812" open="1"/>
-          <listitem id="ufqjBjSllx2D3" type="811" open="1"/>
-          <listitem id="ur1rM8kNbz7L2" type="812" open="1"/>
-          <listitem id="ujgbPf8tNnTcz" type="812" open="1"/>
-          <listitem id="ujmTJBHN49jLI" type="812" open="1"/>
-          <listitem id="u3MUVqV5DpczM" type="812" open="1"/>
-          <listitem id="uwacAjRbhX2Ty" type="812" open="1"/>
-          <listitem id="uh5MrvEgfM3FA" type="811" open="1"/>
-        </listitem>
-        <listitem id="Component_View" type="821" open="1"/>
-        <listitem id="Deployment_View" type="827" open="1"/>
         <listitem id="Logical_View" type="801" open="1">
           <listitem id="uNH199Eohq2yW" type="813" open="1">
             <listitem id="uKc29V9ibODFs" type="814" open="0"/>
@@ -901,6 +881,26 @@
           <listitem id="u7z104LmCp5n1" type="813" open="1"/>
           <listitem id="udL2w4U6VCP4c" type="813" open="1">
             <listitem id="uAVAQeI9R6088" type="814" open="0"/>
+          </listitem>
+          <listitem id="Datatypes" type="830" open="0">
+            <listitem id="ukCkVfKXt9NOy" type="829" open="0"/>
+            <listitem id="uvl9R0iGm8kK8" type="829" open="0"/>
+            <listitem id="uV9J3Ks5MQShl" type="829" open="0"/>
+            <listitem id="uJMX4sQQ5vV63" type="829" open="0"/>
+            <listitem id="uf40CcqdbxVaH" type="829" open="1"/>
+            <listitem id="u42d7fBHQHlFI" type="829" open="0"/>
+            <listitem id="u8zPMInPd5fUZ" type="829" open="0"/>
+            <listitem id="uuqnVrjSGQiW0" type="829" open="0"/>
+            <listitem id="uTf32v09c6oEX" type="829" open="0"/>
+            <listitem id="uvjygQsHmTLjw" type="829" open="0"/>
+            <listitem id="uLqjmpjhQmNPF" type="829" open="0"/>
+            <listitem id="u3s60g7i7TsTq" type="829" open="0"/>
+            <listitem id="uVvqRIH5j97ck" type="829" open="0"/>
+            <listitem id="uMY4GHQnbtt6X" type="829" open="0"/>
+            <listitem id="ufXzvzu300rer" type="829" open="0"/>
+            <listitem id="u1vmBxwPDAbJc" type="829" open="0"/>
+            <listitem id="uZ3yc2yHuISzQ" type="829" open="0"/>
+            <listitem id="uJkyaZitWqdrc" type="829" open="0"/>
           </listitem>
           <listitem id="ux41DwfcFaU8S" type="813" open="1"/>
           <listitem id="uMVsjZgPc91jn" type="807" label="diagrama de clases" open="0"/>
@@ -1002,26 +1002,27 @@
             <listitem id="ugEzNVKZ31IQx" type="814" open="0"/>
             <listitem id="uRCpek4l9W7hW" type="814" open="0"/>
           </listitem>
-          <listitem id="Datatypes" type="830" open="0">
-            <listitem id="ukCkVfKXt9NOy" type="829" open="0"/>
-            <listitem id="uvl9R0iGm8kK8" type="829" open="0"/>
-            <listitem id="uV9J3Ks5MQShl" type="829" open="0"/>
-            <listitem id="uf40CcqdbxVaH" type="829" open="1"/>
-            <listitem id="u42d7fBHQHlFI" type="829" open="0"/>
-            <listitem id="u8zPMInPd5fUZ" type="829" open="0"/>
-            <listitem id="uuqnVrjSGQiW0" type="829" open="0"/>
-            <listitem id="uTf32v09c6oEX" type="829" open="0"/>
-            <listitem id="uvjygQsHmTLjw" type="829" open="0"/>
-            <listitem id="uLqjmpjhQmNPF" type="829" open="0"/>
-            <listitem id="u3s60g7i7TsTq" type="829" open="0"/>
-            <listitem id="uVvqRIH5j97ck" type="829" open="0"/>
-            <listitem id="uMY4GHQnbtt6X" type="829" open="0"/>
-            <listitem id="ufXzvzu300rer" type="829" open="0"/>
-            <listitem id="u1vmBxwPDAbJc" type="829" open="0"/>
-            <listitem id="uZ3yc2yHuISzQ" type="829" open="0"/>
-            <listitem id="uJkyaZitWqdrc" type="829" open="0"/>
-          </listitem>
           <listitem id="uayaufDpowhgI" type="817" open="1"/>
+        </listitem>
+        <listitem id="Use_Case_View" type="802" open="0">
+          <listitem id="uCN7xCdkkWa8w" type="812" open="1"/>
+          <listitem id="uEW9U9K5NUkYt" type="805" label="casos de uso" open="0"/>
+          <listitem id="u7e7j7Kuau6sh" type="812" open="1"/>
+          <listitem id="unXNG9VxEe9XQ" type="812" open="1"/>
+          <listitem id="uoI0GOEspd2Ls" type="811" open="1"/>
+          <listitem id="uDn09CYiBbwSu" type="811" open="1"/>
+          <listitem id="ucI84vucegZ6j" type="812" open="1"/>
+          <listitem id="uTDHnRVuwtCRc" type="812" open="1"/>
+          <listitem id="u59L9ZJOajFn8" type="812" open="1"/>
+          <listitem id="ubhQmxvXeE6Fo" type="812" open="1"/>
+          <listitem id="uoiPif8mFIZkV" type="812" open="1"/>
+          <listitem id="ufqjBjSllx2D3" type="811" open="1"/>
+          <listitem id="ur1rM8kNbz7L2" type="812" open="1"/>
+          <listitem id="ujgbPf8tNnTcz" type="812" open="1"/>
+          <listitem id="ujmTJBHN49jLI" type="812" open="1"/>
+          <listitem id="u3MUVqV5DpczM" type="812" open="1"/>
+          <listitem id="uwacAjRbhX2Ty" type="812" open="1"/>
+          <listitem id="uh5MrvEgfM3FA" type="811" open="1"/>
         </listitem>
       </listitem>
     </listview>
