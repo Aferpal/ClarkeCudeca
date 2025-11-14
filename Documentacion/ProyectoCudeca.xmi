@@ -283,7 +283,7 @@
               </messages>
               <associations/>
             </diagram>
-            <diagram xmi.id="uQWiHtoBtaeDp" name="Recordatorio evento" type="3" documentation="" backgroundcolor="#ffffff" fillcolor="#ffffc0" font="Ubuntu Sans,11,-1,5,50,0,0,0,0,0" griddotcolor="#d3d3d3" linecolor="#990000" linewidth="0" textcolor="#000000" usefillcolor="1" showattribassocs="1" showatts="1" showattsig="1" showops="1" showopsig="1" showpackage="1" showpubliconly="0" showscope="1" showstereotype="2" localid="-1" showgrid="0" snapgrid="0" snapcsgrid="0" snapx="25" snapy="25" zoom="100" canvasheight="800" canvaswidth="1100" isopen="0" autoincrementsequence="0">
+            <diagram xmi.id="uQWiHtoBtaeDp" name="Recordatorio evento" type="3" documentation="" backgroundcolor="#ffffff" fillcolor="#ffffc0" font="Ubuntu Sans,11,-1,5,50,0,0,0,0,0" griddotcolor="#d3d3d3" linecolor="#990000" linewidth="0" textcolor="#000000" usefillcolor="1" showattribassocs="1" showatts="1" showattsig="1" showops="1" showopsig="1" showpackage="1" showpubliconly="0" showscope="1" showstereotype="2" localid="-1" showgrid="0" snapgrid="0" snapcsgrid="0" snapx="25" snapy="25" zoom="100" canvasheight="800" canvaswidth="1100" isopen="1" autoincrementsequence="0">
               <widgets>
                 <objectwidget xmi.id="u2CDIw7xoA4nB" localid="u9aocqjXnP1R2" textcolor="#000000" linecolor="#990000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="1" usesdiagramusefillcolor="1" fillcolor="none" font="Ubuntu Sans,11,-1,5,50,0,0,0,0,0" autoresize="1" x="257" y="80" width="110" height="28" isinstance="0" showstereotype="2" drawasactor="0" multipleinstance="0" decon="0"/>
                 <floatingtext xmi.id="uHElldznmEfgu" localid="u1r10kq6bddYn" textcolor="#000000" linecolor="#990000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu Sans,11,-1,5,50,0,0,0,0,0" autoresize="1" x="572" y="93" width="181" height="22" isinstance="0" showstereotype="2" text="pedir_lista_evento_prox()" pretext="" posttext="" role="700"/>
@@ -410,6 +410,23 @@
                 <messagewidget xmi.id="udpeOKBhF1M7C" localid="uA48Rw6SMV4PJ" textcolor="none" linecolor="#990000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="1" usesdiagramusefillcolor="1" fillcolor="none" font="Ubuntu Sans,11,-1,5,50,0,0,0,0,0" autoresize="1" x="571" y="514.393" width="523" height="8" isinstance="0" showstereotype="2" seqnum="" widgetaid="uSKtqn1tVaiVN" widgetbid="ujGvjaLBZ24IY" operation="" sequencemessagetype="1001"/>
                 <messagewidget xmi.id="uRmfXFnK3U0Pr" localid="un3C0ZYZgTWFu" textcolor="none" linecolor="#990000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="1" usesdiagramusefillcolor="1" fillcolor="none" font="Ubuntu Sans,11,-1,5,50,0,0,0,0,0" autoresize="0" x="133" y="359.071" width="232" height="196" isinstance="0" showstereotype="2" seqnum="" widgetaid="uJ4ZXK9a1iFhe" widgetbid="uSn2N8IJa7D5s" operation="" sequencemessagetype="1000"/>
                 <messagewidget xmi.id="uKUZgANYTky6U" localid="uO7HtocbIxLSn" textcolor="none" linecolor="#990000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="1" usesdiagramusefillcolor="1" fillcolor="none" font="Ubuntu Sans,11,-1,5,50,0,0,0,0,0" autoresize="1" x="570" y="362.5" width="408" height="20" isinstance="0" showstereotype="2" seqnum="" widgetaid="uSKtqn1tVaiVN" widgetbid="uifKZIqcfo0G7" operation="" sequencemessagetype="1000"/>
+              </messages>
+              <associations/>
+            </diagram>
+            <diagram xmi.id="upIafesU9GQnC" name="Enviar certificados" type="3" documentation="" backgroundcolor="#ffffff" fillcolor="#ffffc0" font="Ubuntu Sans,11,-1,5,50,0,0,0,0,0" griddotcolor="#d3d3d3" linecolor="#990000" linewidth="0" textcolor="#000000" usefillcolor="1" showattribassocs="1" showatts="1" showattsig="1" showops="1" showopsig="1" showpackage="1" showpubliconly="0" showscope="1" showstereotype="2" localid="-1" showgrid="0" snapgrid="0" snapcsgrid="0" snapx="25" snapy="25" zoom="100" canvasheight="800" canvaswidth="1100" isopen="1" autoincrementsequence="0">
+              <widgets>
+                <objectwidget xmi.id="uoI0GOEspd2Ls" localid="uPuESM9oomgLe" textcolor="#000000" linecolor="#990000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="1" usesdiagramusefillcolor="1" fillcolor="none" font="Ubuntu Sans,11,-1,5,50,0,0,0,0,0" autoresize="1" x="-59" y="17" width="52" height="63" isinstance="0" showstereotype="2" drawasactor="1" multipleinstance="0" decon="0"/>
+                <objectwidget xmi.id="u2CDIw7xoA4nB" localid="u0mf5FIShqWxG" textcolor="#000000" linecolor="#990000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="1" usesdiagramusefillcolor="1" fillcolor="none" font="Ubuntu Sans,11,-1,5,50,0,0,0,0,0" autoresize="1" x="222" y="80" width="110" height="28" isinstance="0" showstereotype="2" drawasactor="0" multipleinstance="0" decon="0"/>
+                <floatingtext xmi.id="ukl0OItR2GgcG" localid="uKzQer9dt9xey" textcolor="#000000" linecolor="#990000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu Sans,11,-1,5,50,0,0,0,0,0" autoresize="1" x="16" y="97" width="157" height="22" isinstance="0" showstereotype="2" text="generar_certificados()" pretext="" posttext="" role="700"/>
+                <objectwidget xmi.id="uh5MrvEgfM3FA" localid="uWXQRBB70maja" textcolor="#000000" linecolor="#990000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="1" usesdiagramusefillcolor="1" fillcolor="none" font="Ubuntu Sans,11,-1,5,50,0,0,0,0,0" autoresize="1" x="541" y="17" width="72" height="63" isinstance="0" showstereotype="2" drawasactor="1" multipleinstance="0" decon="0"/>
+                <floatingtext xmi.id="uW7xVQLP8HW0j" localid="u9SgUFi7fleEq" textcolor="#000000" linecolor="#990000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu Sans,11,-1,5,50,0,0,0,0,0" autoresize="1" x="352" y="176" width="145" height="22" isinstance="0" showstereotype="2" text="enviar_certificados()" pretext="" posttext="" role="700"/>
+              </widgets>
+              <messages>
+                <messagewidget xmi.id="usE4Giv875ej9" localid="u9dfviNCTXZZl" textcolor="none" linecolor="#990000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="1" usesdiagramusefillcolor="1" fillcolor="none" font="Ubuntu Sans,11,-1,5,50,0,0,0,0,0" autoresize="1" x="-32" y="102" width="48" height="20" isinstance="0" showstereotype="2" seqnum="" widgetaid="uPuESM9oomgLe" widgetbid="uPuESM9oomgLe" operation="" sequencemessagetype="1001"/>
+                <messagewidget xmi.id="uO6oDsqwn8auf" localid="u6F35kOJIGfYi" textcolor="none" linecolor="#990000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="1" usesdiagramusefillcolor="1" fillcolor="none" font="Ubuntu Sans,11,-1,5,50,0,0,0,0,0" autoresize="1" x="-32" y="172" width="308" height="23" isinstance="0" showstereotype="2" seqnum="" widgetaid="uPuESM9oomgLe" widgetbid="u0mf5FIShqWxG" operation="uO6oDsqwn8auf" sequencemessagetype="1001" textid="uukFhxds3TeLX">
+                  <floatingtext xmi.id="uukFhxds3TeLX" localid="uhtHXFUG3tvnV" textcolor="none" linecolor="#990000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="1" usesdiagramusefillcolor="1" fillcolor="none" font="Ubuntu Sans,11,-1,5,50,0,0,0,0,0" autoresize="1" x="0" y="150" width="155" height="22" isinstance="0" showstereotype="2" text="enviar_lista(lista : List)" pretext="" posttext="" role="704"/>
+                </messagewidget>
+                <messagewidget xmi.id="ubY8nK1fZqR0M" localid="uIox1ruFqhfbH" textcolor="none" linecolor="#990000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="1" usesdiagramusefillcolor="1" fillcolor="none" font="Ubuntu Sans,11,-1,5,50,0,0,0,0,0" autoresize="1" x="278" y="196" width="298" height="8" isinstance="0" showstereotype="2" seqnum="" widgetaid="u0mf5FIShqWxG" widgetbid="uWXQRBB70maja" operation="" sequencemessagetype="1001"/>
               </messages>
               <associations/>
             </diagram>
@@ -1069,7 +1086,7 @@
     </packagedElement>
   </uml:Model>
   <xmi:Extension extender="umbrello">
-    <docsettings viewid="uXRFtKeLwEJlG" documentation="" uniqueid="uADWdYk8EKAkx"/>
+    <docsettings viewid="upIafesU9GQnC" documentation="" uniqueid="u9SgUFi7fleEq"/>
     <listview>
       <listitem id="Views" type="800" open="1">
         <listitem id="Entity_Relationship_Model" type="836" open="1">
@@ -1169,6 +1186,7 @@
             <listitem id="uGs7FoRBdStns" type="810" label="Comprar entrada" open="0"/>
             <listitem id="utYIuOnjmIzZ4" type="810" label="Crear evento" open="0"/>
             <listitem id="uBPxDcNeij0wd" type="810" label="Dar alta" open="0"/>
+            <listitem id="upIafesU9GQnC" type="810" label="Enviar certificados" open="0"/>
             <listitem id="uXRFtKeLwEJlG" type="810" label="Enviar spam" open="0"/>
             <listitem id="uQWiHtoBtaeDp" type="810" label="Recordatorio evento" open="0"/>
           </listitem>
