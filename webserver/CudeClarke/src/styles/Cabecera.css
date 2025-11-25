@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.div-cabecera{
+    background-color: #0abf13;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+
+.div-cabecera img{
+    width: 100px;
+}
