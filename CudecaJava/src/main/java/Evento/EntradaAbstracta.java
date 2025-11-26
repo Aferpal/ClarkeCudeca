@@ -1,4 +1,8 @@
 package Evento;
 
-public class EntradaAbstracta implements iEntrada{
+public class EntradaAbstracta implements iEntrada {
+    private int subAforo;
+    private float precio;
+
+    
 }
